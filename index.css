@@ -1,0 +1,68 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+
+}
+.quote{
+    margin:auto;
+    text-align: center;
+    font-family: verdana;
+    font-size: 30px;
+}
+.login{
+    margin:auto;
+    text-align: center;
+    font-family: verdana;
+    font-size: 15px;
+    position: fixed;
+    margin-top:9.5em;
+    margin-left: -3.0em;
+    margin-right: 0.5em;
+
+    border-width: 15px;
+    
+
+
+    
+}
+.signup{
+    margin:auto;
+    text-align: center;
+    font-family: verdana;
+    font-size: 15px;
+    position: fixed;
+    margin-top:19.5em;
+    margin-left: -3.0em;
+    margin-right: 0.5em;
+
+    border-width: 14px;
+    
+
+
+    
+}
+.mentor{
+    margin:auto;
+    text-align: center;
+    font-family: verdana;
+    font-size: 15px;
+    position: fixed;
+    margin-top:26.5em;
+    margin-left: 35.0em;
+    margin-right: 0.5em;
+
+    
+    
+
+
+    
+}
+
+
+.grad{
+    background: linear-gradient(#43cea2, #185a9d);
+     background-repeat: repeat;
+ }
+ 
