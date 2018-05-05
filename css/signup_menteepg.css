@@ -23,5 +23,6 @@ hr {
 
 .grad{
    background: linear-gradient(#43cea2, #185a9d);
-    background-repeat: no-repeat;
+   background-repeat: repeat-x;
+   background-repeat: repeat-y;
 }
