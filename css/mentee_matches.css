@@ -25,7 +25,8 @@ body { font-family: sans-serif;
     padding : 10px;
 }
 .grad{
-   /*background: linear-gradient(#43cea2, #185a9d);
-   background-repeat: repeat-y;*/
-    background-image: url("../imgs/background.png");
-}
+  /*  background: linear-gradient(#43cea2, #185a9d);
+     background-repeat: repeat;
+     background-color: #6083C6;*/
+     background-image: url("../imgs/background.png");
+ }
