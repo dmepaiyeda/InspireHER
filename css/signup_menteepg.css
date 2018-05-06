@@ -22,7 +22,8 @@ hr {
 }
 
 .grad{
-   background: linear-gradient(#43cea2, #185a9d);
+   /*background: linear-gradient(#43cea2, #185a9d);
    background-repeat: repeat-x;
-   background-repeat: repeat-y;
+   background-repeat: repeat-y;*/
+    background-image: url("../imgs/background.png");
 }
