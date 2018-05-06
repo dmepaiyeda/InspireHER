@@ -1,0 +1,13 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+
+
+}
+.grad{
+    /*background: linear-gradient(#43cea2, #185a9d);
+     background-repeat: repeat;*/
+      background-image: url("../imgs/background.png");
+}

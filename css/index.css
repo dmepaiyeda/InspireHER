@@ -22,10 +22,7 @@ body{
     margin-right: 0.5em;
 
     border-width: 15px;
-    
 
-
-    
 }
 .signup{
     margin:auto;
@@ -36,13 +33,9 @@ body{
     margin-top:19.5em;
     margin-left: -3.0em;
     margin-right: 0.5em;
-
     border-width: 14px;
-    
-
-
-    
 }
+
 .mentor{
     margin:auto;
     text-align: center;
@@ -53,16 +46,12 @@ body{
     margin-left: 35.0em;
     margin-right: 0.5em;
 
-    
-    
-
-
-    
 }
 
 
 .grad{
-    background: linear-gradient(#43cea2, #185a9d);
+  /*  background: linear-gradient(#43cea2, #185a9d);
      background-repeat: repeat;
+     background-color: #6083C6;*/
+     background-image: url("../imgs/background.png");
  }
- 
