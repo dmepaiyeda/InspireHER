@@ -13,7 +13,7 @@ body{
     text-align: center;
     font-size: 25px;
     position: fixed;
-    margin-top:5.0em;
+    margin-top:3.0em;
     margin-left: 23.5em;
     margin-right: 0.5em;
 
@@ -28,7 +28,7 @@ body{
     text-align: left;
     font-size: 15px;
     position: fixed;
-    margin-top:4.5em;
+    margin-top:8.5em;
     margin-left: 5.5em;
     margin-right: 0.5em;
 
@@ -40,7 +40,7 @@ body{
     text-align: center; 
     font-size: 25px;
     position: fixed;
-    margin-top:19.8em;
+    margin-top:10.8em;
     margin-left: 23.5em;
     margin-right: 0.5em;
     border-width: 15px;
@@ -50,7 +50,7 @@ body{
     text-align: left;
     font-size: 15px;
     position: fixed;
-    margin-top:15.5em;
+    margin-top:21.5em;
     margin-left: 5.5em;
     margin-right: 0.5em;
     border-width: 15px;
@@ -63,7 +63,7 @@ body{
     font-size: 15px;
     position: fixed;
     margin-top:30.5em;
-    margin-left: 5.5em;
+    margin-left: -2.5em;
     margin-right: 0.5em;
 
     border-width: 15px;
