@@ -1,0 +1,44 @@
+{
+  "Student" : [{
+    "Name" : "John",
+    "Program" :"Computer Science",
+    "Email" : "John@gmail.com",
+    "Interests" : ["Programming","MMA", "Global Warming"]
+  },{
+    "Name" : "Nestle",
+    "Program": "Bio",
+    "Email" : "Nestlebio@gmail.com",
+    "Interests" : ["Jogging", "Gaming", "Reading"]
+  },{
+      "Name" : "Emily",
+      "Program" : "Chemistry",
+      "Email" : "Emilyu@gmail.com",
+      "Interests" : ["Graphic Design", "Watching Movies", "Gaming"]
+  },{
+    "Name" : "Kamran",
+    "Program" : "Computer Science",
+    "Email" : "Kamcorder123@gmail.com",
+    "Interests" : ["Gaming", "Programming", "MMA"]
+  }],
+  "Users" : [ {
+    "Name" : "Deborah",
+    "Program" : "Computer Science",
+    "Email": "Deborah@gmail.com",
+    "Availability" : 0,
+    "Verified" : 0
+  }, {
+    "Name" : "James",
+    "Program" : "Bio",
+    "Email" : "James@gmail.com",
+    "Availability" : 1,
+    "Verified" : 1
+  },{
+      "Name" : "Lyme",
+      "Program" : "Mechanical Engineering",
+      "Email" : "Lyme@gmail.com",
+      "Availability" : 0,
+      "Verified" : 0
+  }],
+  "Count": 3
+
+}
