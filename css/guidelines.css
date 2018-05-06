@@ -7,10 +7,10 @@ body{
 
 }
 
+
 .mentee{
     margin:auto;
     text-align: center;
-    
     font-size: 25px;
     position: fixed;
     margin-top:5.0em;
@@ -18,13 +18,14 @@ body{
     margin-right: 0.5em;
 
     border-width: 15px;
-    
+
 }
+
+
 .p1
 {
     margin:auto;
     text-align: left;
-    
     font-size: 15px;
     position: fixed;
     margin-top:4.5em;
@@ -32,35 +33,27 @@ body{
     margin-right: 0.5em;
 
     border-width: 15px;
-    
 
 }
 .mentor{
     margin:auto;
     text-align: center; 
-    
     font-size: 25px;
     position: fixed;
     margin-top:19.8em;
     margin-left: 23.5em;
     margin-right: 0.5em;
-
     border-width: 15px;
-    
-
-}
+    }
 .p2{
     margin:auto;
     text-align: left;
-    
     font-size: 15px;
     position: fixed;
     margin-top:15.5em;
     margin-left: 5.5em;
     margin-right: 0.5em;
-
     border-width: 15px;
-    
 }
 .signUpHere
 {
@@ -74,8 +67,9 @@ body{
     margin-right: 0.5em;
 
     border-width: 15px;
-    
+
 }
+
 .grad{
     /*background: linear-gradient(#43cea2, #185a9d);
     background-repeat: repeat-y;*/
