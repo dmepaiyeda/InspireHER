@@ -1,6 +1,6 @@
 # InspireHER
 A web application that provides a safe space for high school females to get mentorship from industry professionals in STEM-related fields. 
-In the future, we plan to make a mobile app for this web app and it's mock-up is available on Marvel.
+In the future, we plan to make a mobile app for this web app and it's mock-up is available on Marvel. <br>
 Feel free to check it out here: https://marvelapp.com/6b87ia6/screen/42284165 
 
 # The Problem
@@ -14,7 +14,7 @@ Feel free to check it out here: https://marvelapp.com/6b87ia6/screen/42284165
 # What is InspireHer?
 InspireHer is a web application that provides a safe space for Grade 11 and 12 female high school students to get mentorship. It does so by connecting them with Industry Professionals in STEM-related fields to encourage them as they think about their interests and career paths. 
 
-Low Fidelity Sketches: https://github.com/dmepaiyeda/InspireHER/sketches <br>
+Low Fidelity Sketches: https://github.com/dmepaiyeda/InspireHER/tree/master/sketches <br>
 
 Mock-up & Prototype: https://pr.to/T3EKU8/
 
