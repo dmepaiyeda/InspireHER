@@ -1,7 +1,7 @@
 # InspireHER
 A web application that provides a safe space for high school females to get mentorship from industry professionals in STEM-related fields. 
 In the future, we plan to make a mobile app for this web app and it's mock-up is available on Marvel. <br>
-Feel free to check it out here: https://marvelapp.com/6b87ia6/screen/42284165 
+Feel free to check it out here: https://xd.adobe.com/view/e6fa3512-ae00-41c4-51ed-6a27f8613724-90cb/
 
 # The Problem
 1. High school female students are unaware of job opportunities 
